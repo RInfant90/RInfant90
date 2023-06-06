@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rosana</h1>
 <h3 align="center">Data Analyst and Tableau Visualization Specialist</h3>
-<img align="right" alt="Coding" width="200" src="https://static.wixstatic.com/media/3e99b9_f53a1cab95ae4dfd938a1bf6a1a62f49~mv2.gif">
+<img align="right" alt="Coding" width="450" src="https://static.wixstatic.com/media/3e99b9_f53a1cab95ae4dfd938a1bf6a1a62f49~mv2.gif">
 
 - 🔭 I have recently worked on **2019-2022 Migration at our U.S. Borders**
 
